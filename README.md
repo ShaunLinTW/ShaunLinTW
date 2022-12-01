@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/-Unity%20C%23-%2334495E%20)
 ![](https://img.shields.io/badge/-Grasshopper-%23808B96%20)
 
-### Platform I use
+### Platform I use:
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
 ![](https://img.shields.io/badge/-Vivado-%23B7950B%20)
 ![](https://img.shields.io/badge/-Quartus-%231976D2%20)
@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/-Rhino-%23808B96%20)
 ![](https://img.shields.io/badge/-3ds%20Max-%2345B39D)
 
-### MCU/Embedded system I familiar with
+### MCU/Embedded system I familiar with:
 ![](https://img.shields.io/badge/-Xilinx%20Zynq%20--%20Zedboard-%23990000%20)
 ![](https://img.shields.io/badge/-Intel%20MCS--51-%231E88E5%20)
 ![](https://img.shields.io/badge/-Atmel%20FPGA-%231976D2%20)
