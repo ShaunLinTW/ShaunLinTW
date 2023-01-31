@@ -11,17 +11,19 @@
 ![](https://img.shields.io/badge/-Python-orange)
 ![](https://img.shields.io/badge/-Swift-%23EC7063)
 ![](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-green)
+![](https://img.shields.io/badge/-Java-red)
 ![](https://img.shields.io/badge/-MATLAB-blue)
 ![](https://img.shields.io/badge/-Simulink-%234DB6AC)
 ![](https://img.shields.io/badge/-PLC-lightgrey)
 ![](https://img.shields.io/badge/-Unity%20C%23-%2334495E%20)
 ![](https://img.shields.io/badge/-Grasshopper-%23808B96%20)
 
-### Platform I use:
+### Tools and Framework I use:
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
 ![](https://img.shields.io/badge/-Vivado-%23B7950B%20)
 ![](https://img.shields.io/badge/-Quartus-%231976D2%20)
 ![](https://img.shields.io/badge/-Xcode-%235499C7)
+![](https://img.shields.io/badge/-Spring%20Boot-green)
 ![](https://img.shields.io/badge/-Firebase-%23D35400%20)
 ![](https://img.shields.io/badge/-Arduino%20IDE-%2316A085)
 ![](https://img.shields.io/badge/-Unity-%2334495E%20)
