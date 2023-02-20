@@ -1,6 +1,6 @@
 ### 👋 Hi, nice to see you, I’m Shaun
 -----------------------------------------------------------------------------------------------
- 👀 I’m interested in Embedded system, AI, Machine Learning, and Deep Learning
+ 👀 I’m interested in Software Engineering, Computer Vision, Machine Learning, Deep Learning, Embedded system and FPGA Development.
  
  📖 I’m currently pursing a Master of Electrical and Computer Engineering at Rice University 🦉
  
