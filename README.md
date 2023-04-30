@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/-PLC-lightgrey)
 ![](https://img.shields.io/badge/-Unity%20C%23-%2334495E%20)
 ![](https://img.shields.io/badge/-Grasshopper-%23808B96%20)
+![](https://img.shields.io/badge/-React-orange)
+![](https://img.shields.io/badge/-Flutter-blue)
 
 ### Tools and Framework I use:
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
@@ -39,3 +41,4 @@
 ![](https://img.shields.io/badge/-Linkit%20Smart%207688-%23339900)
 ![](https://img.shields.io/badge/-Arduino%20boards-%2300897B%20)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-%23AD1457)
+![](https://img.shields.io/badge/-Nordic%20nRF52-blue)
