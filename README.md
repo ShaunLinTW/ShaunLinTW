@@ -41,4 +41,4 @@
 ![](https://img.shields.io/badge/-Linkit%20Smart%207688-%23339900)
 ![](https://img.shields.io/badge/-Arduino%20boards-%2300897B%20)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-%23AD1457)
-![](https://img.shields.io/badge/-Nordic%20nRF52-blue)
+![](https://img.shields.io/badge/-Nordic%20nRF5340-blue)
