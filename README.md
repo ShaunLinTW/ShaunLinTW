@@ -28,9 +28,12 @@
 ![](https://img.shields.io/badge/-Spring%20Boot-green)
 ![](https://img.shields.io/badge/-Firebase-%23D35400%20)
 ![](https://img.shields.io/badge/-Arduino%20IDE-%2316A085)
+![](https://img.shields.io/badge/-Altium%20Designer-yellow)
+![](https://img.shields.io/badge/-Eagle-orange)
 ![](https://img.shields.io/badge/-Unity-%2334495E%20)
 ![](https://img.shields.io/badge/-Rhino-%23808B96%20)
 ![](https://img.shields.io/badge/-3ds%20Max-%2345B39D)
+![](https://img.shields.io/badge/-Fusion%20360-orange)
 
 ### MCU/Embedded system I familiar with:
 ![](https://img.shields.io/badge/-Xilinx%20Zynq%20--%20Zedboard-%23990000%20)
@@ -41,4 +44,4 @@
 ![](https://img.shields.io/badge/-Linkit%20Smart%207688-%23339900)
 ![](https://img.shields.io/badge/-Arduino%20boards-%2300897B%20)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-%23AD1457)
-![](https://img.shields.io/badge/-Nordic%20nRF5340-blue)
+![](https://img.shields.io/badge/-Nordic%20nRF52%2F53%20Series-blue)
