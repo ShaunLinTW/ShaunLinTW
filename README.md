@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/-Grasshopper-%23808B96%20)
 ![](https://img.shields.io/badge/-React-orange)
 ![](https://img.shields.io/badge/-Flutter-blue)
+![](https://img.shields.io/badge/-Verilog-red)
 
 ### Tools and Framework I use:
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
