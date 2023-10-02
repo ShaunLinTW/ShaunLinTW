@@ -1,10 +1,10 @@
 ### 👋 Hi, nice to see you, I’m Shaun
 -----------------------------------------------------------------------------------------------
- 👀 I’m interested in Software Engineering, Computer Vision, Machine Learning, Deep Learning, Embedded system and FPGA Development.
+ 👀 I’m interested in Embedded system, FPGA Development, Software Engineering, Computer Vision and Machine Learning/Deep Learning.
  
- 📖 I’m currently pursing a Master of Electrical and Computer Engineering at Rice University 🦉
+ 📖 I am currently a second-year MECE student at Rice University, expected to graduate in May 2024. 🦉
  
- 📫 How to reach me LinkedIn: Hsuan-You (Shaun) Lin
+ 📫 How to reach me LinkedIn: [Hsuan-You (Shaun) Lin](https://www.linkedin.com/in/hsuanyou-lin/)
  
 -----------------------------------------------------------------------------------------------
 ### Things I code with:
