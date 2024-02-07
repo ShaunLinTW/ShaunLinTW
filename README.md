@@ -21,14 +21,14 @@
 ![](https://img.shields.io/badge/-Flutter-blue)
 ![](https://img.shields.io/badge/-Verilog-red)
 
-### Tools and Framework I use:
+### Tools and Frameworks I use:
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
 ![](https://img.shields.io/badge/-Vivado-%23B7950B%20)
 ![](https://img.shields.io/badge/-Quartus-%231976D2%20)
 ![](https://img.shields.io/badge/-Xcode-%235499C7)
 ![](https://img.shields.io/badge/-Spring%20Boot-green)
 ![](https://img.shields.io/badge/-Firebase-%23D35400%20)
-![](https://img.shields.io/badge/-ZypherRTOS-%231976D2%20)
+![](https://img.shields.io/badge/-ZephyrRTOS-%231976D2%20)
 ![](https://img.shields.io/badge/-FreeRTOS-yellow)
 ![](https://img.shields.io/badge/-Arduino%20IDE-%2316A085)
 ![](https://img.shields.io/badge/-Altium%20Designer-yellow)
