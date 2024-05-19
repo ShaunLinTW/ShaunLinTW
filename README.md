@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------
  👀 I’m interested in Embedded system, FPGA Development, Software Engineering, Computer Vision and Machine Learning/Deep Learning.
  
- 📖 I am currently a second-year MECE student at Rice University, expected to graduate in May 2024. 🦉
+ 📖 I'm a recent graduate with a Master's degree in Electrical and Computer Engineering from Rice University, specializing in Computer Engineering. 🦉
  
  📫 How to reach me LinkedIn: [Hsuan-You (Shaun) Lin](https://www.linkedin.com/in/hsuanyou-lin/)
  
