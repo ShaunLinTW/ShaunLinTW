@@ -1,8 +1,10 @@
 ### 👋 Hi, nice to see you, I’m Shaun
 -----------------------------------------------------------------------------------------------
- 👀 I’m interested in Embedded system, FPGA Development, Software Engineering, Computer Vision and Machine Learning/Deep Learning.
+ 👀 I’m interested in Embedded system, Mobile App Development, Software Engineering, Computer Vision and Machine Learning/Deep Learning.
+
+ ‎‍💼 I'm a Software Engineer at Volvo Cars.
  
- 📖 I'm a recent graduate with a Master's degree in Electrical and Computer Engineering from Rice University, specializing in Computer Engineering. 🦉
+ 📖 I'm graduated with a Master's degree in Electrical and Computer Engineering from Rice University, specializing in Computer Engineering and Software Engineering. 🦉
  
  📫 How to reach me LinkedIn: [Hsuan-You (Shaun) Lin](https://www.linkedin.com/in/hsuanyou-lin/)
  
@@ -20,6 +22,7 @@
 ![](https://img.shields.io/badge/-React-orange)
 ![](https://img.shields.io/badge/-Flutter-blue)
 ![](https://img.shields.io/badge/-Verilog-red)
+![](https://img.shields.io/badge/-Vector%20CAPL-orange)
 
 ### Tools and Frameworks I use:
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
@@ -37,12 +40,14 @@
 ![](https://img.shields.io/badge/-Rhino-%23808B96%20)
 ![](https://img.shields.io/badge/-3ds%20Max-%2345B39D)
 ![](https://img.shields.io/badge/-Fusion%20360-orange)
+![](https://img.shields.io/badge/-Vector%20CANoe-red)
+![](https://img.shields.io/badge/-Vector%20CANape-red)
 
 ### MCU/Embedded system I familiar with:
 ![](https://img.shields.io/badge/-Xilinx%20Zynq%20--%20Zedboard-%23990000%20)
 ![](https://img.shields.io/badge/-Intel%20MCS--51-%231E88E5%20)
 ![](https://img.shields.io/badge/-Atmel%20FPGA-%231976D2%20)
-![](https://img.shields.io/badge/-Nvidia%20Jetson%20Series-%237CB342)
+![](https://img.shields.io/badge/-Nvidia%20Jetson%20Xavier%2FOrin%2FThor-%237CB342)
 ![](https://img.shields.io/badge/-NodeMCU-%23283747)
 ![](https://img.shields.io/badge/-Linkit%20Smart%207688-%23339900)
 ![](https://img.shields.io/badge/-Arduino%20boards-%2300897B%20)
